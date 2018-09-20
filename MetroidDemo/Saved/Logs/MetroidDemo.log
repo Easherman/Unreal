@@ -380,3 +380,217 @@ LogInit: Object subsystem initialized
 [2018.09.20-02.24.49:280][338]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_11315F8E34716C0E873DFA59CD8707A6D.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.uasset'
 [2018.09.20-02.24.49:309][338]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_7BB334C0646CFC89E55EDB1996A085D84.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_7.uasset'
 [2018.09.20-02.24.49:335][338]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_899FB1CFC453DCDD2CC82EDBE8DB683D1.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_8.uasset'
+[2018.09.20-02.26.13:002][878]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_7.ghost_torch_sheet_Sprite_7
+[2018.09.20-02.26.29:368][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.26.29:505][352]LogSlate: Window 'ghost_torch_sheet_Sprite_7' being destroyed
+[2018.09.20-02.26.29:517][352]LogSlate: Window 'ghost_torch_sheet_Sprite_7' being destroyed
+[2018.09.20-02.26.42:000][246]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.26.56:517][  8]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Demo/Sprites/Background_Elements/ghost_flip.ghost_flip
+[2018.09.20-02.28.46:020][756]LogSlate: Window 'ghost_flip*' being destroyed
+[2018.09.20-02.28.46:031][756]LogSlate: Window 'ghost_flip*' being destroyed
+[2018.09.20-02.28.49:519][832]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.29.19:640][ 28]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Demo/Sprites/Background_Elements/b_torch_flip.b_torch_flip
+[2018.09.20-02.29.26:475][227]LogSlate: Window 'b_torch_flip*' being destroyed
+[2018.09.20-02.29.26:485][227]LogSlate: Window 'b_torch_flip*' being destroyed
+[2018.09.20-02.29.27:684][266]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.29.29:409][308]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.29.35:536][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.29.37:738][507]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.29.53:944][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.29.54:042][  2]LogSlate: Window 'ghost_torch_sheet_Sprite_1' being destroyed
+[2018.09.20-02.29.54:050][  2]LogSlate: Window 'ghost_torch_sheet_Sprite_1' being destroyed
+[2018.09.20-02.29.55:696][ 43]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.29.57:885][103]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.30.06:692][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.30.06:817][365]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.30.06:825][365]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.30.07:916][393]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.30.10:271][452]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.30.48:583][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.30.48:671][603]LogSlate: Window 'ghost_torch_sheet_Sprite_0*' being destroyed
+[2018.09.20-02.30.48:685][603]LogSlate: Window 'ghost_torch_sheet_Sprite_0*' being destroyed
+[2018.09.20-02.30.50:094][648]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.30.52:600][713]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.31.16:561][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.31.16:599][453]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.31.16:628][453]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.31.18:203][497]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.31.25:716][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.31.32:187][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.31.32:277][903]LogSlate: Window 'ghost_torch_sheet_Sprite_0*' being destroyed
+[2018.09.20-02.31.32:296][903]LogSlate: Window 'ghost_torch_sheet_Sprite_0*' being destroyed
+[2018.09.20-02.31.34:280][968]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.31.36:323][ 21]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.31.56:605][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.32.03:228][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.32.17:425][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.32.20:358][615]LogSlate: Took 0.064311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Black.ttf' (162K)
+[2018.09.20-02.32.45:951][445]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.32.45:957][445]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.32.49:268][557]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.33.07:360][244]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.34.00:200][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.34.03:048][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.34.04:740][118]LogRenderer: Reallocating scene render targets to support 1084x608 Format 10 NumSamples 1 (Frame:1007).
+[2018.09.20-02.34.24:013][474]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.34.24:021][474]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.34.25:556][518]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.34.29:654][606]LogSlate: Window 'ghost_torch_sheet_Sprite_0*' being destroyed
+[2018.09.20-02.34.29:669][606]LogSlate: Window 'ghost_torch_sheet_Sprite_0*' being destroyed
+[2018.09.20-02.34.30:769][640]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.34.34:457][719]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.34.34:473][719]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.34.39:801][779]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.34.40:612][810]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet.ghost_torch_sheet
+[2018.09.20-02.34.43:457][901]LogSlate: Window 'ghost_torch_sheet' being destroyed
+[2018.09.20-02.34.43:467][901]LogSlate: Window 'ghost_torch_sheet' being destroyed
+[2018.09.20-02.35.06:604][963]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.20-02.35.14:148][190]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.35.15:540][244]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.35.31:477][643]LogSlate: Window 'ghost_torch_sheet_Sprite_0*' being destroyed
+[2018.09.20-02.35.31:491][643]LogSlate: Window 'ghost_torch_sheet_Sprite_0*' being destroyed
+[2018.09.20-02.35.33:770][678]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.35.34:871][722]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.35.49:434][ 97]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.35.49:446][ 97]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.35.50:728][128]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_2.ghost_torch_sheet_Sprite_2
+[2018.09.20-02.35.57:108][311]LogSlate: Window 'ghost_torch_sheet_Sprite_2*' being destroyed
+[2018.09.20-02.35.57:117][311]LogSlate: Window 'ghost_torch_sheet_Sprite_2*' being destroyed
+[2018.09.20-02.36.00:170][338]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.36.01:275][380]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.36.09:990][571]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet.ghost_torch_sheet
+[2018.09.20-02.36.12:096][635]LogSlate: Window 'ghost_torch_sheet' being destroyed
+[2018.09.20-02.36.12:107][635]LogSlate: Window 'ghost_torch_sheet' being destroyed
+[2018.09.20-02.36.28:969][122]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.20-02.37.12:399][561]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.20-02.37.12:406][561]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.20-02.37.17:872][703]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.37.18:682][729]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_2.ghost_torch_sheet_Sprite_2
+[2018.09.20-02.37.23:580][839]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.37.25:129][876]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.37.55:388][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.38.50:590][569]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.38.50:602][569]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.38.56:173][652]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.39.11:247][835]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Source/blue_torch.png)
+[2018.09.20-02.39.11:254][835]LogTexture: Display: Building textures: blue_torch (BGRA8, 21X23)
+[2018.09.20-02.39.11:266][835]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Source/blue_torch_an.png)
+[2018.09.20-02.39.11:271][835]LogTexture: Display: Building textures: blue_torch_an (BGRA8, 21X23)
+[2018.09.20-02.39.17:157][234]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Demo/Sprites/Background_Elements/blue_torch_an.blue_torch_an
+[2018.09.20-02.39.17:456][236]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_01' took 0.022
+[2018.09.20-02.39.17:458][236]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_2] ([1] browsable assets)...
+[2018.09.20-02.39.17:467][236]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_2.ghost_torch_sheet_Sprite_2]
+[2018.09.20-02.39.17:467][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_2]
+[2018.09.20-02.39.17:485][236]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_2_Auto1375D3DCC45B95A88B1A91EA72DE2F130.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/Autosaves/Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_2_Auto1.uasset'
+[2018.09.20-02.39.17:487][236]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Background_Elements/blue_torch] ([1] browsable assets)...
+[2018.09.20-02.39.17:489][236]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Demo/Sprites/Background_Elements/blue_torch.blue_torch]
+[2018.09.20-02.39.17:489][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Background_Elements/blue_torch]
+[2018.09.20-02.39.17:496][236]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/blue_torch_Auto1735769544CD4EC6D0B05A0AA4D8F0FC8.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/Autosaves/Game/Demo/Sprites/Background_Elements/blue_torch_Auto1.uasset'
+[2018.09.20-02.39.17:499][236]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Background_Elements/blue_torch_an] ([1] browsable assets)...
+[2018.09.20-02.39.17:500][236]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Demo/Sprites/Background_Elements/blue_torch_an.blue_torch_an]
+[2018.09.20-02.39.17:500][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Background_Elements/blue_torch_an]
+[2018.09.20-02.39.17:507][236]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/blue_torch_an_Auto1BD4143E140A008B21D90DBB8CFF4C0D0.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/Autosaves/Game/Demo/Sprites/Background_Elements/blue_torch_an_Auto1.uasset'
+[2018.09.20-02.39.17:509][236]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.09.20-02.39.19:014][291]LogSlate: Window 'blue_torch_an*' being destroyed
+[2018.09.20-02.39.19:022][291]LogSlate: Window 'blue_torch_an*' being destroyed
+[2018.09.20-02.39.20:272][337]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Demo/Sprites/Background_Elements/blue_torch.blue_torch
+[2018.09.20-02.39.21:904][393]LogSlate: Window 'blue_torch*' being destroyed
+[2018.09.20-02.39.21:917][393]LogSlate: Window 'blue_torch*' being destroyed
+[2018.09.20-02.39.54:093][962]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.40.11:053][760]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Demo/Sprites/Background_Elements/bl_torch_flip.bl_torch_flip
+[2018.09.20-02.41.00:977][682]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/bl_torch_flip9DBDEEB84A6DFAD441602094949EBF1E.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/bl_torch_flip.uasset'
+[2018.09.20-02.41.03:726][751]LogSlate: Window 'bl_torch_flip' being destroyed
+[2018.09.20-02.41.03:737][751]LogSlate: Window 'bl_torch_flip' being destroyed
+[2018.09.20-02.41.22:129][953]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/blue_torch_an4974AAB14831F51229D696B944EEBDE7.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/sheets/blue_torch_an.uasset'
+[2018.09.20-02.41.22:143][953]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/blue_torch19CE123D45B40ECDB05620B782CCE858.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/sheets/blue_torch.uasset'
+[2018.09.20-02.41.26:726][275]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheetC43A00364882B33E5DC183BDD867FB02.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/sheets/ghost_torch_sheet.uasset'
+[2018.09.20-02.41.26:894][275]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_7ED756BD047E53BFB9CF30C9F2C2A9238.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_7.uasset'
+[2018.09.20-02.41.26:923][275]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_89909B16345AA5A46CD1C54B4F8A9CF95.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_8.uasset'
+[2018.09.20-02.41.37:525][957]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_2A29CEFD1426A135818A5F48DE793A907.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_2.uasset'
+[2018.09.20-02.41.37:550][957]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/blue_torch_SpriteD83EA0F74C59C7B1AE202EACE1C98239.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/blue_torch_Sprite.uasset'
+[2018.09.20-02.41.37:576][957]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/blue_torch_an_Sprite595CCD57419FCC0456513DABA36AB428.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/blue_torch_an_Sprite.uasset'
+[2018.09.20-02.43.28:584][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.43.35:007][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.43.36:356][542]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (block_4)
+[2018.09.20-02.44.10:476][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.44.12:262][ 72]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Demo/Sprites/Background_Elements/bl_torch_flip.bl_torch_flip
+[2018.09.20-02.44.29:800][708]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/bl_torch_flipA7F03B174B7C4E012A5DAC92A67AFA49.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/bl_torch_flip.uasset'
+[2018.09.20-02.44.31:777][766]LogSlate: Window 'bl_torch_flip' being destroyed
+[2018.09.20-02.44.31:791][766]LogSlate: Window 'bl_torch_flip' being destroyed
+[2018.09.20-02.44.37:117][975]Cmd: DELETE
+[2018.09.20-02.44.37:117][975]Cmd: ACTOR DELETE
+[2018.09.20-02.44.37:193][975]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2018.09.20-02.44.37:241][975]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2018.09.20-02.44.38:907][ 44]LogEditorViewport: Clicking on Actor (LMB): PaperFlipbookActor (bl_torch_flip)
+[2018.09.20-02.44.42:068][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.44.48:470][307]LogEditorViewport: Clicking Background
+[2018.09.20-02.49.17:787][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.20-02.49.18:267][190]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/Level_01_Auto22616010B43D32BDCE9E98BB45412604C.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/Autosaves/Game/Demo/Maps/Level_01_Auto2.umap'
+[2018.09.20-02.49.18:276][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_01' took 0.420
+[2018.09.20-02.49.18:276][190]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.420
+[2018.09.20-02.49.41:697][142]LogEditorViewport: Clicking on Actor (LMB): PaperFlipbookActor (bl_torch_flip)
+[2018.09.20-02.50.03:603][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.50.13:926][242]LogEditorViewport: Clicking Background
+[2018.09.20-02.50.58:000][978]LogEditorViewport: Clicking on Actor (LMB): PaperFlipbookActor (bl_torch_flip)
+[2018.09.20-02.51.04:496][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.20-02.51.34:105][731]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.20-02.51.40:984][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.51.56:152][724]LogEditorViewport: Clicking Background
+[2018.09.20-02.51.57:723][785]LogEditorViewport: Clicking on Actor (LMB): PaperFlipbookActor (bl_torch_flip)
+[2018.09.20-02.52.21:257][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.52.24:004][561]LogEditorViewport: Clicking on Actor (LMB): PaperFlipbookActor (bl_torch_flip)
+[2018.09.20-02.52.25:292][604]LogSlate: Took 0.064104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.20-02.52.32:397][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.52.32:487][827]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.20-02.52.32:570][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Demo/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.09.20-02.52.32:571][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-02.52.32:626][827]PIE: New page: PIE session: Level_01 (Sep 19, 2018, 6:52:32 PM)
+[2018.09.20-02.52.32:626][827]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_01
+[2018.09.20-02.52.32:648][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021125s)
+[2018.09.20-02.52.32:649][827]LogAIModule: Creating AISystem for world Level_01
+[2018.09.20-02.52.32:649][827]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2018.09.20-02.52.32:649][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_01.Level_01 to /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 (0.022921s)
+[2018.09.20-02.52.32:688][827]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-02.52.32:795][827]LogInit: FAudioDevice initialized.
+[2018.09.20-02.52.32:811][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-02.52.32:864][827]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.20-02.52.32:883][827]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.09.19-22.52.32
+[2018.09.20-02.52.32:884][827]LogWorld: Bringing up level for play took: 0.004304
+[2018.09.20-02.52.32:986][827]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 10 classes and 0 folders.
+[2018.09.20-02.52.33:029][827]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_01 0.893
+[2018.09.20-02.52.33:030][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Demo/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.09.20-02.52.33:135][827]LogRenderer: Reallocating scene render targets to support 1332x916 Format 10 NumSamples 1 (Frame:1).
+[2018.09.20-02.52.33:635][828]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.069948 > MaxSimulationTimeStep (0.050) for '2D_Guy_C_0', movement 'Walking'
+[2018.09.20-02.52.40:683][ 40]LogSlate: Window 'MetroidDemo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-02.52.40:718][ 40]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Demo/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.09.20-02.52.40:755][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-02.52.40:756][ 40]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Demo/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.09.20-02.52.40:827][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.09.20-02.52.42:087][ 84]LogEditorViewport: Clicking on Actor (LMB): PaperFlipbookActor (bl_torch_flip)
+[2018.09.20-02.52.47:813][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.52.56:027][445]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.20-02.52.56:058][445]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Demo/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.09.20-02.52.56:058][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-02.52.56:058][445]PIE: New page: PIE session: Level_01 (Sep 19, 2018, 6:52:56 PM)
+[2018.09.20-02.52.56:059][445]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_01
+[2018.09.20-02.52.56:069][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010305s)
+[2018.09.20-02.52.56:070][445]LogAIModule: Creating AISystem for world Level_01
+[2018.09.20-02.52.56:070][445]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2018.09.20-02.52.56:070][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_01.Level_01 to /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 (0.011658s)
+[2018.09.20-02.52.56:117][445]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-02.52.56:232][445]LogInit: FAudioDevice initialized.
+[2018.09.20-02.52.56:242][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-02.52.56:280][445]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.20-02.52.56:284][445]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.09.19-22.52.56
+[2018.09.20-02.52.56:285][445]LogWorld: Bringing up level for play took: 0.004154
+[2018.09.20-02.52.56:303][445]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_01 0.166
+[2018.09.20-02.52.56:362][445]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Demo/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.09.20-02.52.56:523][446]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.087695 > MaxSimulationTimeStep (0.050) for '2D_Guy_C_0', movement 'Walking'
+[2018.09.20-02.53.03:293][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Demo/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.09.20-02.53.03:293][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-02.53.03:335][647]LogSlate: Window 'MetroidDemo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-02.53.03:377][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-02.53.03:377][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Demo/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.09.20-02.53.03:478][648]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.09.20-02.53.12:146][207]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/Level_015F6994DD436AD94A29A33E950A19D32E.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Maps/Level_01.umap'
+[2018.09.20-02.53.12:191][207]LogFileHelpers: Saving map 'Level_01' took 1.527
