@@ -1,4 +1,4 @@
-﻿Log file open, 09/19/18 21:03:34
+﻿Log file open, 09/19/18 22:20:54
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: MetroidDemo
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.306300
+LogStats: Stats thread started at 0.278373
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +93,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.238s to configure plugins.
+LogStreaming: Display: Took  0.758s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -123,7 +123,7 @@ LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
-LogInit: Command Line: -EpicPortal 
+LogInit: Command Line: 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 20
@@ -147,206 +147,236 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.001s to delete old logs.
+LogStreaming: Display: Took  0.017s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.09.20-01.03.35:081][  0]LogInit: Selected Device Profile: [Windows]
-[2018.09.20-01.03.35:081][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.09.20-01.03.35:152][  0]LogHAL: Display: Platform has ~ 8 GB [8481775616 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.09.20-01.03.35:152][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.09.20-01.03.35:152][  0]LogInit: Going up to parent DeviceProfile []
-[2018.09.20-01.03.35:175][  0]LogInit: Computer: DESKTOP-DCAAEOS
-[2018.09.20-01.03.35:175][  0]LogInit: User: Whitney
-[2018.09.20-01.03.35:175][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.09.20-01.03.35:175][  0]LogInit: High frequency timer resolution =1.757816 MHz
-[2018.09.20-01.03.35:176][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2018.09.20-01.03.35:176][  0]LogMemory: Platform Memory Stats for Windows
-[2018.09.20-01.03.35:176][  0]LogMemory: Process Physical Memory: 100.59 MB used, 100.59 MB peak
-[2018.09.20-01.03.35:176][  0]LogMemory: Process Virtual Memory: 90.93 MB used, 90.93 MB peak
-[2018.09.20-01.03.35:176][  0]LogMemory: Physical Memory: 4622.34 MB used,  3466.52 MB free, 8088.85 MB total
-[2018.09.20-01.03.35:176][  0]LogMemory: Virtual Memory: 548.43 MB used,  3466.52 MB free, 134217728.00 MB total
-[2018.09.20-01.03.35:202][  0]LogInit: Using OS detected language (en-US).
-[2018.09.20-01.03.35:202][  0]LogInit: Using OS detected locale (en-US).
-[2018.09.20-01.03.35:203][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.09.20-01.03.35:717][  0]LogStreaming: Display: Took  0.515s to InitEngineTextLocalization.
-[2018.09.20-01.03.35:718][  0]LogInit: Setting process to per monitor DPI aware
-[2018.09.20-01.03.35:821][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.09.20-01.03.35:821][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.09.20-01.03.39:931][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.09.20-01.03.39:931][  0]LogD3D11RHI: D3D11 adapters:
-[2018.09.20-01.03.39:980][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
-[2018.09.20-01.03.39:980][  0]LogD3D11RHI:       128/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
-[2018.09.20-01.03.39:984][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.09.20-01.03.39:985][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.09.20-01.03.39:985][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.09.20-01.03.39:996][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.09.20-01.03.39:996][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
-[2018.09.20-01.03.39:996][  0]LogWindows: EnumDisplayDevices:
-[2018.09.20-01.03.39:997][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
-[2018.09.20-01.03.39:997][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
-[2018.09.20-01.03.39:998][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
-[2018.09.20-01.03.39:998][  0]LogWindows: DebugString: FoundDriverCount:3 
-[2018.09.20-01.03.39:998][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
-[2018.09.20-01.03.39:998][  0]LogD3D11RHI:   Driver Version: 23.20.16.4905 (internal:23.20.16.4905, unified:23.20.16.4905)
-[2018.09.20-01.03.39:998][  0]LogD3D11RHI:      Driver Date: 12-27-2017
-[2018.09.20-01.03.39:998][  0]LogRHI: Texture pool is 1505 MB (70% of 2150 MB)
-[2018.09.20-01.03.40:027][  0]LogD3D11RHI: Async texture creation enabled
-[2018.09.20-01.03.40:034][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
-[2018.09.20-01.03.40:035][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Intermediate/Shaders/WorkingDirectory/15688/).
-[2018.09.20-01.03.40:036][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Whitney/AppData/Local/Temp/UnrealShaderWorkingDir/B167DAE94CDA53B6DF8DFC825753A8F2/'.
-[2018.09.20-01.03.40:516][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.09.20-01.03.40:531][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.09.20-01.03.40:545][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.09.20-01.03.40:561][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.09.20-01.03.40:600][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.09.20-01.03.40:628][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.09.20-01.03.40:647][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.09.20-01.03.40:665][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.09.20-01.03.40:672][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.09.20-01.03.40:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.20-01.03.40:810][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.09.20-01.03.40:893][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.09.20-01.03.40:893][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.09.20-01.03.40:921][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.09.20-01.03.40:921][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.09.20-01.03.40:939][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.09.20-01.03.40:955][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.09.20-01.03.40:971][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.09.20-01.03.41:038][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.09.20-01.03.41:049][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.09.20-01.03.41:049][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.09.20-01.03.41:145][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.09.20-01.03.41:145][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.09.20-01.03.41:145][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.09.20-01.03.44:302][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.09.20-01.03.44:368][  0]LogDerivedDataCache: Loaded boot cache 0.07s 86MB C:/Users/Whitney/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.09.20-01.03.44:368][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Whitney/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.09.20-01.03.44:368][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.09.20-01.03.44:368][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.09.20-01.03.44:369][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.09.20-01.03.44:369][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.09.20-01.03.44:384][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.09.20-01.03.44:396][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Whitney/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.09.20-01.03.44:396][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.09.20-01.03.44:396][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.09.20-01.03.44:416][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.09.20-01.03.44:418][  0]LogSlate: Using FreeType 2.6.0
-[2018.09.20-01.03.44:451][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.09.20-01.03.45:193][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
-[2018.09.20-01.03.45:599][  0]LogInit: Selected Device Profile: [Windows]
-[2018.09.20-01.03.45:750][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.09.20-01.03.45:760][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.09.20-01.03.45:760][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.09.20-01.03.45:761][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.09.20-01.03.45:761][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.09.20-01.03.45:965][  0]LogNetVersion: MetroidDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3364280947)
-[2018.09.20-01.03.46:947][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.234960 seconds
-[2018.09.20-01.03.46:955][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.09.20-01.03.46:955][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
-[2018.09.20-01.03.46:955][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.09.20-01.03.57:218][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.09.20-01.03.57:233][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.09.20-01.03.57:624][  0]SourceControl: Source control is disabled
-[2018.09.20-01.03.57:625][  0]SourceControl: Source control is disabled
-[2018.09.20-01.03.57:628][  0]SourceControl: Source control is disabled
-[2018.09.20-01.03.57:630][  0]SourceControl: Source control is disabled
-[2018.09.20-01.03.57:949][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.09.20-01.03.58:068][  0]LogOcInput: OculusInput pre-init called
-[2018.09.20-01.03.58:206][  0]LogEngine: Initializing Engine...
-[2018.09.20-01.03.58:207][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.09.20-01.03.58:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.09.20-01.03.58:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.09.20-01.03.58:209][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.09.20-01.03.58:209][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.09.20-01.03.58:482][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.09.20-01.03.58:511][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.09.20-01.03.58:519][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.09.20-01.03.58:766][  0]LogInit: FAudioDevice initialized.
-[2018.09.20-01.03.58:767][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.09.20-01.03.58:907][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/Whitney/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.09.20-01.03.58:911][  0]LogInit: Texture streaming: Enabled
-[2018.09.20-01.03.58:930][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.09.20-01.03.58:949][  0]LogInit: Transaction tracking system initialized
-[2018.09.20-01.03.58:981][  0]BlueprintLog: New page: Editor Load
-[2018.09.20-01.03.59:213][  0]LocalizationService: Localization service is disabled
-[2018.09.20-01.03.59:588][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.09.20-01.03.59:588][  0]LogCook: Display: Mobile HDR setting 1
-[2018.09.20-01.03.59:588][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.09.20-01.03.59:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.09.20-01.03.59:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.09.20-01.03.59:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.09.20-01.03.59:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.09.20-01.03.59:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/' took 0.02s
-[2018.09.20-01.03.59:991][  0]SourceControl: Source control is disabled
-[2018.09.20-01.03.59:991][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Maps/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.09.20-01.03.59:992][  0]LightingResults: New page: Lighting Build
-[2018.09.20-01.03.59:996][  0]MapCheck: New page: Map Check
-[2018.09.20-01.03.59:996][  0]LightingResults: New page: Lighting Build
-[2018.09.20-01.04.00:816][  0]LogTexture: Display: Building textures: Character (BGRA8, 256X256)
-[2018.09.20-01.04.00:816][  0]LogTexture: Display: Building textures: Tiles (BGRA8, 256X256)
-[2018.09.20-01.04.00:826][  0]LogAIModule: Creating AISystem for world Level_01
-[2018.09.20-01.04.00:866][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.09.20-01.04.00:896][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.09.20-01.04.00:977][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.677ms to complete.
-[2018.09.20-01.04.00:977][  0]LogFileHelpers: Loading map 'Level_01' took 0.986
-[2018.09.20-01.04.01:043][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.09.20-01.04.01:164][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.20-01.04.01:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.20-01.04.01:179][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.20-01.04.01:187][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.20-01.04.01:195][  0]LogCollectionManager: Loaded 0 collections in 0.002214 seconds
-[2018.09.20-01.04.01:246][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/Collections/' took 0.01s
-[2018.09.20-01.04.01:246][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Developers/Whitney/Collections/' took 0.01s
-[2018.09.20-01.04.01:246][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Collections/' took 0.01s
-[2018.09.20-01.04.01:246][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.09.20-01.04.01:264][  0]LogContentBrowser: Native class hierarchy populated in 0.0175 seconds. Added 2572 classes and 603 folders.
-[2018.09.20-01.04.01:297][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2018.09.20-01.04.02:009][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2018.09.20-01.04.02:019][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
-[2018.09.20-01.04.02:055][  0]LogSlate: Took 0.009231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.09.20-01.04.02:082][  0]LogSlate: Took 0.025294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.09.20-01.04.02:094][  0]LogSlate: Took 0.005695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.09.20-01.04.02:259][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
-[2018.09.20-01.04.02:747][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.09.20-01.04.02:768][  0]LogSlate: Window 'Tutorials' being destroyed
-[2018.09.20-01.04.02:805][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2018.09.20-01.04.02:805][  0]LogLoad: (Engine Initialization) Total time: 30.79 seconds
-[2018.09.20-01.04.02:805][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.09.20-01.04.02:864][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.09.20-01.04.02:915][  0]LogSlate: Took 0.017769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.09.20-01.04.02:965][  2]LogAssetRegistry: Asset discovery search completed in 17.7934 seconds
-[2018.09.20-01.04.02:967][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.09.20-01.04.02:967][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
-[2018.09.20-01.04.08:045][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.09.20-01.04.40:283][139]LogSlate: Took 0.014871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.09.20-01.04.40:309][139]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Whitney/Pictures/Game/ghost_move.png)
-[2018.09.20-01.04.40:351][139]LogTexture: Display: Building textures: ghost_move (BGRA8, 21X23)
-[2018.09.20-01.04.40:379][139]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Whitney/Pictures/Game/ghost_rest.png)
-[2018.09.20-01.04.40:382][139]LogTexture: Display: Building textures: ghost_rest (BGRA8, 21X23)
-[2018.09.20-01.05.21:710][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Whitney/Pictures/Game/blue_torch.png)
-[2018.09.20-01.05.21:715][529]LogTexture: Display: Building textures: blue_torch (BGRA8, 21X23)
-[2018.09.20-01.05.21:726][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Whitney/Pictures/Game/blue_torch_an.png)
-[2018.09.20-01.05.21:730][529]LogTexture: Display: Building textures: blue_torch_an (BGRA8, 21X23)
-[2018.09.20-01.05.32:388][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Sprites/Enemy/ghost_move" FILE="../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Enemy/ghost_move.uasset" SILENT=true
-[2018.09.20-01.05.32:416][ 72]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_move0C61DB5A4FA0943EFD240C90B868E7D8.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Enemy/ghost_move.uasset'
-[2018.09.20-01.05.32:432][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Sprites/Enemy/ghost_rest" FILE="../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Enemy/ghost_rest.uasset" SILENT=true
-[2018.09.20-01.05.32:442][ 72]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_restA23994124098660185B899A0650FAC4F.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Enemy/ghost_rest.uasset'
-[2018.09.20-01.05.32:468][ 72]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/blue_torchB49994E042217D0F9A4CD8A6712C971E.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/blue_torch.uasset'
-[2018.09.20-01.05.32:491][ 72]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/blue_torch_an31CCEBC1478F8262BEE581A32B4FD65B.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/blue_torch_an.uasset'
+[2018.09.20-02.20.55:266][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.20-02.20.55:266][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.20-02.20.55:307][  0]LogHAL: Display: Platform has ~ 8 GB [8481775616 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.20-02.20.55:307][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.20-02.20.55:307][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.20-02.20.55:307][  0]LogInit: Computer: DESKTOP-DCAAEOS
+[2018.09.20-02.20.55:307][  0]LogInit: User: Whitney
+[2018.09.20-02.20.55:307][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.20-02.20.55:307][  0]LogInit: High frequency timer resolution =1.757812 MHz
+[2018.09.20-02.20.55:307][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.09.20-02.20.55:308][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.20-02.20.55:308][  0]LogMemory: Process Physical Memory: 100.42 MB used, 100.42 MB peak
+[2018.09.20-02.20.55:308][  0]LogMemory: Process Virtual Memory: 90.86 MB used, 90.86 MB peak
+[2018.09.20-02.20.55:308][  0]LogMemory: Physical Memory: 3386.85 MB used,  4702.00 MB free, 8088.85 MB total
+[2018.09.20-02.20.55:308][  0]LogMemory: Virtual Memory: 548.43 MB used,  4702.00 MB free, 134217728.00 MB total
+[2018.09.20-02.20.55:322][  0]LogInit: Using OS detected language (en-US).
+[2018.09.20-02.20.55:322][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.20-02.20.55:323][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.20-02.20.55:674][  0]LogStreaming: Display: Took  0.352s to InitEngineTextLocalization.
+[2018.09.20-02.20.55:674][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.20-02.20.55:692][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.20-02.20.55:692][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.20-02.20.55:875][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.20-02.20.55:875][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.20-02.20.55:901][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.09.20-02.20.55:901][  0]LogD3D11RHI:       128/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.09.20-02.20.55:904][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.20-02.20.55:904][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.20-02.20.55:904][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.20-02.20.55:908][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.20-02.20.55:908][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.20-02.20.55:908][  0]LogWindows: EnumDisplayDevices:
+[2018.09.20-02.20.55:909][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.09.20-02.20.55:909][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.09.20-02.20.55:909][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.09.20-02.20.55:909][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.09.20-02.20.55:909][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2018.09.20-02.20.55:909][  0]LogD3D11RHI:   Driver Version: 23.20.16.4905 (internal:23.20.16.4905, unified:23.20.16.4905)
+[2018.09.20-02.20.55:909][  0]LogD3D11RHI:      Driver Date: 12-27-2017
+[2018.09.20-02.20.55:909][  0]LogRHI: Texture pool is 1505 MB (70% of 2150 MB)
+[2018.09.20-02.20.55:925][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.20-02.20.55:932][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2018.09.20-02.20.55:933][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Intermediate/Shaders/WorkingDirectory/7932/).
+[2018.09.20-02.20.55:933][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Whitney/AppData/Local/Temp/UnrealShaderWorkingDir/0FFC03C0476672F4466F019CD57106FD/'.
+[2018.09.20-02.20.56:185][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.20-02.20.56:201][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.20-02.20.56:214][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.20-02.20.56:227][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.20-02.20.56:241][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.20-02.20.56:254][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.20-02.20.56:268][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.20-02.20.56:281][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.20-02.20.56:288][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-02.20.56:373][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.20-02.20.56:435][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.20-02.20.56:435][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.20-02.20.56:458][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.20-02.20.56:458][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.20-02.20.56:470][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.20-02.20.56:483][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.20-02.20.56:495][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.20-02.20.56:508][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.20-02.20.56:517][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.20-02.20.56:517][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.20-02.20.56:577][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.20-02.20.56:577][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.20-02.20.56:577][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.20-02.20.57:342][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.20-02.20.57:408][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Whitney/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.20-02.20.57:408][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Whitney/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.20-02.20.57:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.20-02.20.57:408][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.20-02.20.57:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.20-02.20.57:408][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.20-02.20.57:423][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.20-02.20.57:435][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Whitney/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.20-02.20.57:435][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.20-02.20.57:435][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.20-02.20.57:453][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.20-02.20.57:454][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.20-02.20.57:455][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.20-02.20.57:528][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.09.20-02.20.57:820][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.20-02.20.57:874][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.20-02.20.57:877][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.20-02.20.57:877][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.20-02.20.57:877][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.20-02.20.57:877][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.20-02.20.57:967][  0]LogNetVersion: MetroidDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3364280947)
+[2018.09.20-02.20.58:721][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.267335 seconds
+[2018.09.20-02.20.58:728][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.20-02.20.58:728][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.20-02.20.58:728][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.20-02.20.59:592][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.20-02.20.59:606][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.20-02.20.59:762][  0]SourceControl: Source control is disabled
+[2018.09.20-02.20.59:762][  0]SourceControl: Source control is disabled
+[2018.09.20-02.20.59:763][  0]SourceControl: Source control is disabled
+[2018.09.20-02.20.59:764][  0]SourceControl: Source control is disabled
+[2018.09.20-02.21.00:029][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.20-02.21.00:075][  0]LogOcInput: OculusInput pre-init called
+[2018.09.20-02.21.00:135][  0]LogEngine: Initializing Engine...
+[2018.09.20-02.21.00:135][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.20-02.21.00:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.20-02.21.00:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.20-02.21.00:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.20-02.21.00:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.20-02.21.00:365][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.20-02.21.00:377][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.20-02.21.00:383][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-02.21.01:775][  0]LogInit: FAudioDevice initialized.
+[2018.09.20-02.21.01:775][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.20-02.21.03:720][  0]LogDerivedDataCache: Saved boot cache 1.94s 71MB C:/Users/Whitney/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.20-02.21.03:739][  0]LogInit: Texture streaming: Enabled
+[2018.09.20-02.21.03:756][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.20-02.21.03:768][  0]LogInit: Transaction tracking system initialized
+[2018.09.20-02.21.03:791][  0]BlueprintLog: New page: Editor Load
+[2018.09.20-02.21.04:084][  0]LocalizationService: Localization service is disabled
+[2018.09.20-02.21.04:466][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.20-02.21.04:467][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.20-02.21.04:467][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.20-02.21.04:467][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.20-02.21.04:467][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.20-02.21.04:467][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.20-02.21.04:467][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.20-02.21.04:580][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/' took 0.03s
+[2018.09.20-02.21.04:580][  0]SourceControl: Source control is disabled
+[2018.09.20-02.21.05:381][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.20-02.21.05:407][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.20-02.21.16:934][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.09.20-02.21.16:936][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.20-02.21.16:942][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.20-02.21.16:975][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Maps/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-02.21.17:031][  0]LightingResults: New page: Lighting Build
+[2018.09.20-02.21.17:034][  0]MapCheck: New page: Map Check
+[2018.09.20-02.21.17:034][  0]LightingResults: New page: Lighting Build
+[2018.09.20-02.21.19:126][  0]LogAIModule: Creating AISystem for world Level_01
+[2018.09.20-02.21.19:209][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-02.21.19:235][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-02.21.19:308][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.56ms to complete.
+[2018.09.20-02.21.19:308][  0]LogFileHelpers: Loading map 'Level_01' took 2.333
+[2018.09.20-02.21.20:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-02.21.20:233][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-02.21.20:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-02.21.20:253][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-02.21.20:448][  0]LogCollectionManager: Loaded 0 collections in 0.004482 seconds
+[2018.09.20-02.21.20:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/Collections/' took 0.01s
+[2018.09.20-02.21.20:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Developers/Whitney/Collections/' took 0.01s
+[2018.09.20-02.21.20:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Collections/' took 0.01s
+[2018.09.20-02.21.20:632][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.20-02.21.20:652][  0]LogContentBrowser: Native class hierarchy populated in 0.0187 seconds. Added 2572 classes and 603 folders.
+[2018.09.20-02.21.20:714][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.20-02.21.25:411][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.09.20-02.21.25:479][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.09.20-02.21.26:771][  0]LogSlate: Took 0.000821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.20-02.21.26:917][  0]LogSlate: Took 0.029423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.20-02.21.27:963][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2018.09.20-02.21.28:574][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.20-02.21.28:574][  0]LogLoad: (Engine Initialization) Total time: 36.79 seconds
+[2018.09.20-02.21.28:574][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.20-02.21.28:629][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.20-02.21.28:747][  0]LogSlate: Took 0.026200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.20-02.21.28:771][  1]LogAssetRegistry: Asset discovery search completed in 31.2660 seconds
+[2018.09.20-02.21.28:773][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.20-02.21.28:773][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.09.20-02.21.35:120][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-02.21.53:465][641]LogSlate: Took 0.000674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.20-02.21.53:482][641]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite.ghost_torch_sheet_Sprite
+[2018.09.20-02.21.53:672][641]LogSlate: Took 0.019500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.20-02.21.57:235][725]LogSlate: Window 'ghost_torch_sheet_Sprite*' being destroyed
+[2018.09.20-02.21.57:259][725]LogSlate: Window 'ghost_torch_sheet_Sprite*' being destroyed
+[2018.09.20-02.22.01:620][ 15]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.23.00:326][230]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.20-02.23.02:498][281]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_2.ghost_torch_sheet_Sprite_2
+[2018.09.20-02.23.05:300][348]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_3.ghost_torch_sheet_Sprite_3
+[2018.09.20-02.23.07:102][387]LogSlate: Window 'ghost_torch_sheet_Sprite_3*' being destroyed
+[2018.09.20-02.23.07:112][387]LogSlate: Window 'ghost_torch_sheet_Sprite_3*' being destroyed
+[2018.09.20-02.23.09:869][428]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.23.12:261][476]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.23.13:035][511]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.23.19:150][678]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.23.19:161][678]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.23.20:712][725]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.ghost_torch_sheet_Sprite_0
+[2018.09.20-02.23.22:514][767]LogSlate: Window 'ghost_torch_sheet_Sprite_0*' being destroyed
+[2018.09.20-02.23.22:527][767]LogSlate: Window 'ghost_torch_sheet_Sprite_0*' being destroyed
+[2018.09.20-02.23.26:002][843]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.23.27:732][910]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet.ghost_torch_sheet
+[2018.09.20-02.23.27:790][910]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.20-02.23.31:296][ 23]LogSlate: Window 'ghost_torch_sheet*' being destroyed
+[2018.09.20-02.23.31:308][ 23]LogSlate: Window 'ghost_torch_sheet*' being destroyed
+[2018.09.20-02.24.09:556][598]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.20-02.24.11:410][671]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.ghost_torch_sheet_Sprite_1
+[2018.09.20-02.24.13:204][716]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.24.13:213][716]LogSlate: Window 'ghost_torch_sheet_Sprite_1*' being destroyed
+[2018.09.20-02.24.15:855][821]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_3.ghost_torch_sheet_Sprite_3
+[2018.09.20-02.24.17:745][874]LogSlate: Window 'ghost_torch_sheet_Sprite_3*' being destroyed
+[2018.09.20-02.24.17:760][874]LogSlate: Window 'ghost_torch_sheet_Sprite_3*' being destroyed
+[2018.09.20-02.24.20:937][932]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.24.21:843][964]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet.ghost_torch_sheet
+[2018.09.20-02.24.24:165][ 33]LogSlate: Window 'ghost_torch_sheet*' being destroyed
+[2018.09.20-02.24.24:173][ 33]LogSlate: Window 'ghost_torch_sheet*' being destroyed
+[2018.09.20-02.24.32:630][614]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.20-02.24.34:031][657]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.20-02.24.39:802][817]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-02.24.40:689][847]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_7.ghost_torch_sheet_Sprite_7
+[2018.09.20-02.24.44:096][944]LogSlate: Window 'ghost_torch_sheet_Sprite_7*' being destroyed
+[2018.09.20-02.24.44:106][944]LogSlate: Window 'ghost_torch_sheet_Sprite_7*' being destroyed
+[2018.09.20-02.24.49:224][338]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet88AC99454BFAAB30AEDEA7890E2BBE76.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet.uasset'
+[2018.09.20-02.24.49:252][338]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_094C45ED646167E989633679A2D079840.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_0.uasset'
+[2018.09.20-02.24.49:280][338]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_11315F8E34716C0E873DFA59CD8707A6D.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_1.uasset'
+[2018.09.20-02.24.49:309][338]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_7BB334C0646CFC89E55EDB1996A085D84.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_7.uasset'
+[2018.09.20-02.24.49:335][338]LogSavePackage: Moving '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Saved/ghost_torch_sheet_Sprite_899FB1CFC453DCDD2CC82EDBE8DB683D1.tmp' to '../../../../../../Users/Whitney/Documents/GitHub/Unreal/MetroidDemo/Content/Demo/Sprites/Background_Elements/ghost_torch_sheet_Sprite_8.uasset'
